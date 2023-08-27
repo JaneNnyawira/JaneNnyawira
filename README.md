@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Jane N Nyawira
-- 🔭 I’m currently upskilling 
+- 🔭 I’m currently upskilling in Data Analytics
 - 🌱 I'm currently learning more about Python and R
 - 👯 I’m open to data projects 
 - 📫 Reach me via Email: nllnyawira@gmail.com
